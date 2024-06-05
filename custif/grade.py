@@ -11,7 +11,5 @@ elif grade >= 70 and grade <= 79:
     print("Your Grade is C")
 elif grade >= 60 and grade <= 69:
     print("Your Grade is D")
-elif grade <= 59:
-    print("You failed")
 else: 
-    print("Invalid Input!")	
+    print("You failed")
