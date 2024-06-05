@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """if, elif, else - A simple program using conditionals to make a decision."""
 
-grade = float(input("What was your assignment grade?"))
+grade = float(input("What was your assignment grade?"\n))
 print(grade)
 if grade >= 90:
     print("Your Grade is A")
